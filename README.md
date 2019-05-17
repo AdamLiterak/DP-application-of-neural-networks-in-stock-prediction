@@ -10,3 +10,10 @@ https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-network
 
 Model C1
 https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Model_C1.ipynb
+
+Model C2
+https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Model_C2.ipynb
+
+Data
+https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Data.ipynb
+
