@@ -6,6 +6,8 @@ Tato repository slouží jako podklad k diplomové práci odevzdané v květnu 2
 
 V případě, že GitHub viewer není funkční ("sorry, smething went wrong" při zobrazování jupyter notebooku s daným kódem), lze použít následující odkazy - prohlížeč dokumentů jupyter s odkazovanou cílovou cestou zde v repository:
 
+Uvedené notebooky byly použity v prostředí Google Colaboratory.
+
 Model R1
 https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Model_R1.ipynb
 
