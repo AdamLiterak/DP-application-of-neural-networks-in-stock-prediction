@@ -8,5 +8,5 @@ V případě, že GitHub viewer není funkční ("sorry, smething went wrong" p�
 Model R1
 https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Model_R1.ipynb
 
-Model R1
+Model C1
 https://nbviewer.jupyter.org/github/AdamLiterak/DP-application-of-neural-networks-in-stock-prediction/blob/master/Model_C1.ipynb
